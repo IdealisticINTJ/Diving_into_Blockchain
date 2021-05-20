@@ -1,6 +1,6 @@
 # Diving into Blockchain
 
-1. Build Smart contracts `ProfitSplitter` using Solidity to perfrom several things:
+1. Build Smart contracts [`ProfitSplitter.sol`](ProfitSplitter.sol) using Solidity to perfrom several things:
 
 - Pay Associate-level employees quickly and easily.
 
