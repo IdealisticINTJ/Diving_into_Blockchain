@@ -1,7 +1,7 @@
 pragma solidity ^0.5.0;
 
 // lvl 1: equal split
-contract AssociateProfitSplitter {
+contract ProfitSplitter {
     // @TODO: Create three payable addresses representing `employee_one`, `employee_two` and `employee_three`.
     address payable employee_one;
     address payable employee_two;
